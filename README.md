@@ -1,4 +1,4 @@
-# Olá pessoal! Eu sou Gabriel dono da marca WebPerformer.
+# Olá pessoal! Eu sou Gabriel fundador da marca WebPerformer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebPerformer&show_icons=true&title_color=F27852&bg_color=3F3D56&text_color=FFFFFF&icon_color=F8A68C&height=180em)](https://github.com/WebPerformer/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebPerformer&layout=compact&title_color=F27852&bg_color=3F3D56&text_color=FFFFFF&icon_color=F8A68C&height=100)](https://github.com/WebPerformer/github-readme-stats)
 
