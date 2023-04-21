@@ -33,7 +33,7 @@ These are some of the technologies and tools I use:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next,styledcomponents,tailwind,materialui)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next)](https://skillicons.dev)
 
 - Back-End
 
