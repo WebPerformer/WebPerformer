@@ -11,14 +11,14 @@
 
 <p>
   <em>
-    I'm 23 years old, from São Paulo and currently working as a Full Stack Developer at WebPerformer.
+    I'm 24 years old, from São Paulo and currently working as a Full Stack Developer at HRST Brasil.
   </em>
 </p>
 
 - 🌱 Studying and improving my skills in Next.js, NestJS and NodeJS.
 - 📫 My email: webperformerz@gmail.com
 
-### 📊 2023 Goals:
+### 📊 2025 Goals:
 
 - 📚 Keep seeking knowledge from people and study materials
 
